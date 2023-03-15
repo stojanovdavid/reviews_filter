@@ -1,0 +1,36 @@
+form {
+    width: 35%;
+    margin: 0 auto;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+div label {
+    margin-bottom: 10px;
+}
+
+select {
+    border: #d0d5d0 solid 1px;
+    padding: 6px 2px;
+    color: #5a605a;
+}
+
+button {
+  background-color: #0095ff;
+  border: 1px solid transparent;
+  border-radius: 3px;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 13px;
+  margin: 0;
+  outline: none;
+  padding: 8px .8em;
+  text-align: center;
+  text-decoration: none;
+}
